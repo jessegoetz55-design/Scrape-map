@@ -1,14 +1,1 @@
-{
-  "name": "maps-scraper",
-  "version": "1.0.0",
-  "description": "Google Maps adaptive scraper, educational use",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2",
-    "playwright": "^1.40.0",
-    "csv-stringify": "^6.4.0"
-  }
-}
+{"dependencies":{"express":"^4.19.2","playwright":"1.40.0","uuid":"^9.0.1"},"description":"Plan B Google Maps lead scraper — Playwright + Express, built for Hugging Face Spaces (Docker).","name":"maps-scraper","private":true,"scripts":{"start":"node index.js"},"version":"1.0.0"}
